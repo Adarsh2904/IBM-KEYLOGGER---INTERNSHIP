@@ -1,2 +1,2 @@
 # IBM KEYLOGGER - INTERNSHIP
- pytho code to record the keystroke
+ python code to record the keystroke
