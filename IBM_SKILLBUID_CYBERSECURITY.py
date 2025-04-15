@@ -3,7 +3,7 @@ from tkinter import *
 from pynput import keyboard
 import json
 import threading
-#pr new adarsh
+
 root = tk.Tk()
 root.geometry("400x200")
 root.title("Keylogger Project")
